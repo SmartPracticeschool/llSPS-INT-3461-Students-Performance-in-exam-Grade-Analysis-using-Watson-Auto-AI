@@ -1,0 +1,1 @@
+[{"id":"d62b3c88.5e16f","type":"http request","z":"96b16991.935828","name":"","method":"POST","ret":"obj","paytoqs":"ignore","url":"https://us-south.ml.cloud.ibm.com/v4/deployments/74b707f6-1a74-4d3e-a7d4-553250ce2018/predictions","tls":"","persist":false,"proxy":"","authType":"","x":770,"y":300,"wires":[["f152b32f.f9749","63ebabc.0483754"]]}]
